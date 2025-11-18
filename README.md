@@ -1,4 +1,4 @@
-Instagram Profile Viewer: What It Is and How It Works
+**Instagram Profile Viewer: What It Is and How It Works**
 
 An Instagram profile viewer is a tool designed to let people explore public Instagram profiles without using the official app. As interest in privacy and quick content access grows, these viewers have become increasingly popular for users who want a simple, anonymous way to check photos, reels, or basic profile information without logging in.
 
